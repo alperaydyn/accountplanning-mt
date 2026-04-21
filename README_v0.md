@@ -70,3 +70,8 @@ The main blocks and entities are:
 # todos:
 - content table, combine briefing_read_tracking and briefing_feedback tables
 - product_insights should reflect  the period, the generator may also be human
+
+
+# Key Features:
+- industry agnostic
+- flexibility through json based attribute capability.
