@@ -1,0 +1,6 @@
+
+# Schemas
+
+## customer
+
+### customer.customer:

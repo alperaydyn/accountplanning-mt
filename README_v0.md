@@ -73,5 +73,19 @@ The main blocks and entities are:
 
 
 # Key Features:
-- industry agnostic
-- flexibility through json based attribute capability.
+- industry agnostic,
+    - adaptable to any industry through configurable attributes.
+    - addressing small to big, size not an issue,
+    - can ingest any kind of data needed, no matter if batch or streaming. 
+- ai first architecture:
+    - every data source is designed for ai consumption first, not human only.
+    - every output is explainable, reproducible and traceable.
+    - every action is ready to be executed by an agent, with human in the loop if needed.
+    - 360 cache, short/long term memory, ai ready by design
+    - versioned prompt templates, complete reasoning tracking for debugging, audit, and learning.
+- privacy focused:
+    - all data is private to the company; encrypted and protected from entry to deletion.
+    - company decides which data is AI readable, which is not,
+    - every bit of data is traceable and auditable, 
+- flexibility through json based attribute capability,
+- group display
